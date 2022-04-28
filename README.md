@@ -45,6 +45,9 @@ https://omprakash2929.github.io/Web3.O_project/
 ## Screenshots
 
 ![App Screenshot](https://github.com/omprakash2929/Web3.O_project/blob/main/Demo-img/img1.png/)
+![App Screenshot](https://github.com/omprakash2929/Web3.O_project/blob/main/Demo-img/img2.png/)
+![App Screenshot](https://github.com/omprakash2929/Web3.O_project/blob/main/Demo-img/img3.png)
+
 
 
 ## License
