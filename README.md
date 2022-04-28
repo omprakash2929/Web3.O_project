@@ -42,7 +42,7 @@ The tradeoff is that these tools are preconfigured to work in a specific way. If
 https://omprakash2929.github.io/Web3.O_project/
 
 
-## Screenshots
+## Website Images
 
 ![App Screenshot](https://github.com/omprakash2929/Web3.O_project/blob/main/Demo-img/img1.png/)
 ![App Screenshot](https://github.com/omprakash2929/Web3.O_project/blob/main/Demo-img/img2.png/)
